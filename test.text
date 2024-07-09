@@ -1,0 +1,99 @@
+user {
+  id: '932c10e2-c24d-4e97-ade5-53f61c980eb8',
+  name: 'Abhisek Mukherjee',
+  email: 'abhisekm912@gmail.com',
+  image: 'https://lh3.googleusercontent.com/a/ACg8ocLF5w3zyWZsjTKlJLcrHP3Kfv4GGeMJlo9ciJ18TV-_90bRsa4=s96-c'
+} 
+
+
+account this {
+  access_token: 'ya29.a0AXooCguXoM093orA75RjPN6araYvQoaM8p4sLnCopWEKVBEyXBttw4SLnuV_G6wqgfzer9AjJm_R2-Teu_-mMt4RdFrf8tPXXl-upeHtLRgLLKgHsfbn2G3ZhrW3yagEpNo1KwP9-gKuHK-3hOfPSdEo3_ZUl-fDDfwoaCgYKAVUSARASFQHGX2MiBlp2WDuHJ2zpWiLKpieYfA0171',
+  expires_in: 3599,
+  scope: 'openid https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/userinfo.email',
+  token_type: 'bearer',
+  id_token: 'eyJhbGciOiJSUzI1NiIsImtpZCI6IjY3MTk2NzgzNTFhNWZhZWRjMmU3MDI3NGJiZWE2MmRhMmE4YzRhMTIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI5MjUxNTYwOTg1MDMtMDI3ZzA2N3JscTRlamY3dHFhcnA3MmF1ZjA2azVtbmUuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI5MjUxNTYwOTg1MDMtMDI3ZzA2N3JscTRlamY3dHFhcnA3MmF1ZjA2azVtbmUuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDI5MDIyNDU0MTgwMTY1NDQ2OTYiLCJlbWFpbCI6ImFiaGlzZWttOTEyQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiYUQzUjRoN1hlbUxHTS1tVWNobHZOZyIsIm5hbWUiOiJBYmhpc2VrIE11a2hlcmplZSIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NMRjV3M3p5V1pzalRLbEpMY3JIUDNLZnY0R0dlTUpsbzljaUoxOFRWLV85MGJSc2E0PXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IkFiaGlzZWsiLCJmYW1pbHlfbmFtZSI6Ik11a2hlcmplZSIsImlhdCI6MTcxNjcwNjQ4MCwiZXhwIjoxNzE2NzEwMDgwfQ.APauBcZFly4kfkktk1Bxhcb49PJJg1waeD6v88oevyuNADcfWbGY2y_CEOSaq9rQbM2k2rxMagh-ncpaEqxct2psCcP9KeDgouHrLbO78AbvyG5LIKoGhUkWJGpR7gub9cKa_zZEz0dFB0r3t3iKyaEj5jjP-SHse6PTKQskzlbR26eA8SqIiyiGPdqf4nde8T6Ufhy5qhnNbfeFuloePlrpvBg58ZVt_Et3qXhVXA1oT1UDJvMTIfIoo90K9DRJyh2YNnZrvO-k3sjfIW4twGOIMqF59do_ZTneJ5LVdE2HhTi_F2EeYK6tZtGK-16I176HuwaFSpi4E7Q_y2MWuQ',
+  expires_at: 1716710079,
+  provider: 'google',
+  type: 'oidc',
+  providerAccountId: '102902245418016544696'
+}
+
+ profile this {
+  iss: 'https://accounts.google.com',
+  azp: '925156098503-027g067rlq4ejf7tqarp72auf06k5mne.apps.googleusercontent.com',
+  aud: '925156098503-027g067rlq4ejf7tqarp72auf06k5mne.apps.googleusercontent.com',
+  sub: '102902245418016544696',
+  email: 'abhisekm912@gmail.com',
+  email_verified: true,
+  at_hash: 'aD3R4h7XemLGM-mUchlvNg',
+  name: 'Abhisek Mukherjee',
+  picture: 'https://lh3.googleusercontent.com/a/ACg8ocLF5w3zyWZsjTKlJLcrHP3Kfv4GGeMJlo9ciJ18TV-_90bRsa4=s96-c',
+  given_name: 'Abhisek',
+  family_name: 'Mukherjee',
+  iat: 1716706480,
+  exp: 1716710080
+}
+
+ email this  undefined 
+ 
+ credentials this undefined
+
+callback sessrin here {
+  name: 'Abhisek Mukherjee',
+  email: 'abhisekm912@gmail.com',
+  picture: 'https://lh3.googleusercontent.com/a/ACg8ocLF5w3zyWZsjTKlJLcrHP3Kfv4GGeMJlo9ciJ18TV-_90bRsa4=s96-c',
+  sub: '932c10e2-c24d-4e97-ade5-53f61c980eb8',
+  accessToken: 'ya29.a0AXooCguXoM093orA75RjPN6araYvQoaM8p4sLnCopWEKVBEyXBttw4SLnuV_G6wqgfzer9AjJm_R2-Teu_-mMt4RdFrf8tPXXl-upeHtLRgLLKgHsfbn2G3ZhrW3yagEpNo1KwP9-gKuHK-3hOfPSdEo3_ZUl-fDDfwoaCgYKAVUSARASFQHGX2MiBlp2WDuHJ2zpWiLKpieYfA0171',
+  id: undefined
+}
+ GET /api/auth/callback/google?code=4/0AdLIrYe2izTOqTI5TUwGSIZpJL8eNnbWb9oxlmuN_st3-69NhcMPb1JjzD9AOkCAHgDlGw&scope=email%20profile%20openid%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&authuser=1&prompt=consent 302 in 981ms
+callback sessrin here {
+  name: 'Abhisek Mukherjee',
+  email: 'abhisekm912@gmail.com',
+  picture: 'https://lh3.googleusercontent.com/a/ACg8ocLF5w3zyWZsjTKlJLcrHP3Kfv4GGeMJlo9ciJ18TV-_90bRsa4=s96-c',
+  sub: '932c10e2-c24d-4e97-ade5-53f61c980eb8',
+  accessToken: 'ya29.a0AXooCguXoM093orA75RjPN6araYvQoaM8p4sLnCopWEKVBEyXBttw4SLnuV_G6wqgfzer9AjJm_R2-Teu_-mMt4RdFrf8tPXXl-upeHtLRgLLKgHsfbn2G3ZhrW3yagEpNo1KwP9-gKuHK-3hOfPSdEo3_ZUl-fDDfwoaCgYKAVUSARASFQHGX2MiBlp2WDuHJ2zpWiLKpieYfA0171',
+  iat: 1716706480,
+  exp: 1719298480,
+  jti: 'ed2f0a78-3f80-4692-865f-67fec243dad4'
+}
+
+callback sessrin here {
+  user: {
+    name: 'Abhisek Mukherjee',
+    email: 'abhisekm912@gmail.com',
+    image: 'https://lh3.googleusercontent.com/a/ACg8ocLF5w3zyWZsjTKlJLcrHP3Kfv4GGeMJlo9ciJ18TV-_90bRsa4=s96-c',
+    id: undefined
+  },
+  expires: '2024-06-25T06:54:40.688Z',
+  accessToken: 'ya29.a0AXooCguXoM093orA75RjPN6araYvQoaM8p4sLnCopWEKVBEyXBttw4SLnuV_G6wqgfzer9AjJm_R2-Teu_-mMt4RdFrf8tPXXl-upeHtLRgLLKgHsfbn2G3ZhrW3yagEpNo1KwP9-gKuHK-3hOfPSdEo3_ZUl-fDDfwoaCgYKAVUSARASFQHGX2MiBlp2WDuHJ2zpWiLKpieYfA0171'
+}
+
+callback sessrin here {
+  name: 'Abhisek Mukherjee',
+  email: 'abhisekm912@gmail.com',
+  picture: 'https://lh3.googleusercontent.com/a/ACg8ocLF5w3zyWZsjTKlJLcrHP3Kfv4GGeMJlo9ciJ18TV-_90bRsa4=s96-c',
+  sub: '932c10e2-c24d-4e97-ade5-53f61c980eb8',
+  accessToken: 'ya29.a0AXooCguXoM093orA75RjPN6araYvQoaM8p4sLnCopWEKVBEyXBttw4SLnuV_G6wqgfzer9AjJm_R2-Teu_-mMt4RdFrf8tPXXl-upeHtLRgLLKgHsfbn2G3ZhrW3yagEpNo1KwP9-gKuHK-3hOfPSdEo3_ZUl-fDDfwoaCgYKAVUSARASFQHGX2MiBlp2WDuHJ2zpWiLKpieYfA0171',
+  iat: 1716706480,
+  exp: 1719298480,
+  jti: 'ed2f0a78-3f80-4692-865f-67fec243dad4'
+}
+
+callback sessrin here {
+  user: {
+    name: 'Abhisek Mukherjee',
+    email: 'abhisekm912@gmail.com',
+    image: 'https://lh3.googleusercontent.com/a/ACg8ocLF5w3zyWZsjTKlJLcrHP3Kfv4GGeMJlo9ciJ18TV-_90bRsa4=s96-c',
+    id: undefined
+  },
+  expires: '2024-06-25T06:54:40.692Z',
+  accessToken: 'ya29.a0AXooCguXoM093orA75RjPN6araYvQoaM8p4sLnCopWEKVBEyXBttw4SLnuV_G6wqgfzer9AjJm_R2-Teu_-mMt4RdFrf8tPXXl-upeHtLRgLLKgHsfbn2G3ZhrW3yagEpNo1KwP9-gKuHK-3hOfPSdEo3_ZUl-fDDfwoaCgYKAVUSARASFQHGX2MiBlp2WDuHJ2zpWiLKpieYfA0171'
+}
+
+
+{
+  name: 'Abhisek Mukherjee',
+  email: 'abhisekm912@gmail.com',
+  image: 'https://lh3.googleusercontent.com/a/ACg8ocLF5w3zyWZsjTKlJLcrHP3Kfv4GGeMJlo9ciJ18TV-_90bRsa4=s96-c'
+}
